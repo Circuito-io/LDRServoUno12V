@@ -1,0 +1,18 @@
+
+RC BOM:
+
+Power source:
+    1.12V Power converter:
+        -link: https://www.sparkfun.com/products/9442
+MicroController:
+    1.Arduino UNO: 
+        -link: https://www.sparkfun.com/products/11021
+Components:
+    1.Servo:
+        -link: https://www.sparkfun.com/products/10333
+    2.LDR:
+        -link: https://www.sparkfun.com/products/9088
+        -additional:
+            -10K Ohm Resistor :
+                -qty: 1
+                -link: https://www.sparkfun.com/products/8374
